@@ -1,8 +1,7 @@
 # Realtime-Chat-Application
 
-![Realtime Chat Application Logo](logo.png)
+Realtime-Chat-Application is a full-stack chat application built using Spring Boot for the backend and React.js for the frontend. The application allows users to create chat rooms to broadcast messages to all users and send individual private messages.
 
-Realtime-Chat-Application is a real-time chat application designed to provide users with a seamless and interactive messaging experience. Built with cutting-edge technologies including React.js for the frontend and Spring Boot for the backend, Realtime-Chat-Application offers features akin to popular messaging platforms like WhatsApp.
 
 ## Features
 
@@ -44,5 +43,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 We welcome your feedback! If you have any suggestions, questions, or issues, please feel free to open an issue on the GitHub repository.
 
 ---
-
-Feel free to customize this README file further by adding more sections or adjusting the content to better suit your project's specifics and preferences. Let me know if you need further assistance!
