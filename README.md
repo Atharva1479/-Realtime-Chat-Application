@@ -18,10 +18,10 @@ Realtime-Chat-Application is a real-time chat application designed to facilitate
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/springboot-react-chat-app.git`
-2. Navigate to the backend directory: `cd springboot-react-chat-app/backend`
+1. Clone the repository: `https://github.com/Atharva1479/Realtime-Chat-Application.git`
+2. Navigate to the backend directory: `cd chatapplication/chat-app`
 3. Run the backend server: `./mvnw spring-boot:run`
-4. Navigate to the frontend directory: `cd ../frontend`
+4. Navigate to the frontend directory: `cd chatapp-frontend`
 5. Install dependencies: `npm install`
 6. Start the frontend server: `npm start`
 7. Open your browser and visit `http://localhost:3000` to access the chat application.
