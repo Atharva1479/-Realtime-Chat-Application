@@ -1,7 +1,6 @@
 # Realtime-Chat-Application
 
-Realtime-Chat-Application is a full-stack chat application built using Spring Boot for the backend and React.js for the frontend. The application allows users to create chat rooms to broadcast messages to all users and send individual private messages.
-
+Realtime-Chat-Application is a real-time chat application designed to facilitate communication between users through chat rooms and private messaging. Built with Spring Boot for the backend and React.js for the frontend, this application leverages WebSocket technology to enable instant message delivery and updates without the need for page refreshes.
 
 ## Features
 
@@ -19,11 +18,13 @@ Realtime-Chat-Application is a full-stack chat application built using Spring Bo
 
 ## Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/Realtime-Chat-Application.git`
-2. **Install Dependencies**: 
-   - Backend: Navigate to the `backend` directory and run `./mvnw spring-boot:run`
-   - Frontend: Navigate to the `frontend` directory and run `npm install && npm start`
-3. **Access the Application**: Open your browser and visit `http://localhost:3000` to start using Realtime-Chat-Application.
+1. Clone the repository: `git clone https://github.com/your-username/springboot-react-chat-app.git`
+2. Navigate to the backend directory: `cd springboot-react-chat-app/backend`
+3. Run the backend server: `./mvnw spring-boot:run`
+4. Navigate to the frontend directory: `cd ../frontend`
+5. Install dependencies: `npm install`
+6. Start the frontend server: `npm start`
+7. Open your browser and visit `http://localhost:3000` to access the chat application.
 
 ## Contributing
 
@@ -41,5 +42,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Feedback
 
 We welcome your feedback! If you have any suggestions, questions, or issues, please feel free to open an issue on the GitHub repository.
+
+---
+
+
+Sure, here's a description you could use for your GitHub repository:
 
 ---
